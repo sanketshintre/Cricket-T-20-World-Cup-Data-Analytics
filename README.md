@@ -1,4 +1,4 @@
-# Cricket-T-20-World-Cup-Data-Analytics
+# Cricket T-20 World Cup Best 11 Power BI Project
 
 # Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
 • Created a Power BI report to identify top 11 players for a T20 cricket team by scraping data from espncricinfo
