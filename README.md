@@ -104,12 +104,12 @@ Nissanka
 
 # Player Selection Based On criteria:
 
-<img width="960" alt="2023-02-22 (8)" src="https://user-images.githubusercontent.com/123626990/229266402-23f2d03a-e21b-4d32-909f-6c445db9a1dc.png">
+
 <img width="960" alt="2023-02-22 (4) - Copy" src="https://user-images.githubusercontent.com/123626990/229266406-c9592427-94bd-4719-a1dd-44e0421c1ded.png">
-<img width="960" alt="2023-02-22 (4)" src="https://user-images.githubusercontent.com/123626990/229266407-c542eea4-6ea7-440b-bc11-726be7f34095.png">
 <img width="960" alt="2023-02-22 (5)" src="https://user-images.githubusercontent.com/123626990/229266408-3494fe28-0a1c-4117-bcf2-6f278909eb38.png">
 <img width="960" alt="2023-02-22 (6)" src="https://user-images.githubusercontent.com/123626990/229266410-aa8e551e-5d78-4e24-8ea1-0d8f513b2419.png">
 <img width="960" alt="2023-02-22 (7)" src="https://user-images.githubusercontent.com/123626990/229266411-8f17d3af-825f-4a17-a30f-50cad5e8fef0.png">
+<img width="960" alt="2023-02-22 (8)" src="https://user-images.githubusercontent.com/123626990/229266402-23f2d03a-e21b-4d32-909f-6c445db9a1dc.png">
 
 # Player Selection Based On criteria in Power BI:
 
