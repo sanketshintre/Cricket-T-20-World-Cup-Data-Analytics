@@ -120,6 +120,8 @@ Nissanka
 
 # Cricket T-20 World-Cup Best 11 in Power BI
 
-<img width="960" alt="2023-02-22 (9)" src="https://user-images.githubusercontent.com/123626990/229266574-5d09b9dc-d7d5-470c-bf26-6cd16642e9e0.png">
-<img width="960" alt="2023-02-22 (10)" src="https://user-images.githubusercontent.com/123626990/229266582-e26f6423-5003-4e39-83bd-2f9ab88e9048.png">
-<img width="960" alt="2023-02-22 (11)" src="https://user-images.githubusercontent.com/123626990/229266589-9302ef98-46bf-402f-9366-f8ed156def2a.png">
+<img width="960" alt="2023-04-01 (5)" src="https://user-images.githubusercontent.com/123626990/229270611-79be6f0a-834b-414b-b9ef-6d530da9d59d.png">
+<img width="960" alt="2023-04-01 (6)" src="https://user-images.githubusercontent.com/123626990/229270616-af252276-1686-4e64-8b6e-7160b59875b2.png">
+<img width="960" alt="2023-04-01 (7)" src="https://user-images.githubusercontent.com/123626990/229270620-d7caa156-15db-448b-a5b0-9430550b993d.png">
+
+
