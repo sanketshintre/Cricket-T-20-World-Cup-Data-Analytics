@@ -101,13 +101,12 @@ Nissanka
 
 
 # Player Selection Based On criteria:
+<img width="960" alt="2023-04-01 (12) - Copy" src="https://user-images.githubusercontent.com/123626990/229270989-f48d4727-e1d9-4834-87fe-ee28a8859216.png">
+<img width="960" alt="2023-04-01 (13)" src="https://user-images.githubusercontent.com/123626990/229270992-b4de8cc3-d033-478d-af76-540d459c5448.png">
+<img width="960" alt="2023-04-01 (14)" src="https://user-images.githubusercontent.com/123626990/229270993-f5a45e91-447a-414e-a45b-01014dd6cf38.png">
+<img width="960" alt="2023-04-01 (15)" src="https://user-images.githubusercontent.com/123626990/229270997-23d41702-fc9f-4392-91f6-4a0e471fd07e.png">
+<img width="960" alt="2023-04-01 (16)" src="https://user-images.githubusercontent.com/123626990/229270999-3aa3a1ea-b436-4a84-b77a-1ce6f3ab5dee.png">
 
-
-<img width="960" alt="2023-02-22 (4) - Copy" src="https://user-images.githubusercontent.com/123626990/229266406-c9592427-94bd-4719-a1dd-44e0421c1ded.png">
-<img width="960" alt="2023-02-22 (5)" src="https://user-images.githubusercontent.com/123626990/229266408-3494fe28-0a1c-4117-bcf2-6f278909eb38.png">
-<img width="960" alt="2023-02-22 (6)" src="https://user-images.githubusercontent.com/123626990/229266410-aa8e551e-5d78-4e24-8ea1-0d8f513b2419.png">
-<img width="960" alt="2023-02-22 (7)" src="https://user-images.githubusercontent.com/123626990/229266411-8f17d3af-825f-4a17-a30f-50cad5e8fef0.png">
-<img width="960" alt="2023-02-22 (8)" src="https://user-images.githubusercontent.com/123626990/229266402-23f2d03a-e21b-4d32-909f-6c445db9a1dc.png">
 
 # Player Selection Based On criteria in Power BI:
 
